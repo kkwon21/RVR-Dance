@@ -16,19 +16,19 @@ async function startProgram() {
 async function startProgram() {
 	await roll(18,85,3.0) //first vertex
 	await stopRoll()
-	await roll(162,85,3.0)
+	await roll(162,80,3.0)
 	await stopRoll()
 	await roll(90,75,3.4) //second vertex
 	await stopRoll()
 	await roll(234,75,3.4)
 	await stopRoll()
-	await roll(162,70,3.4) //third vertex
+	await roll(162,75,3.4) //third vertex
 	await stopRoll()
-	await roll(306,70,3.4)
+	await roll(306,75,3.4)
 	await stopRoll()
-	await roll(234,70,3.4) //fourth vertex
+	await roll(234,75,3.4) //fourth vertex
 	await stopRoll()
-	await roll(18,70,3.4)
+	await roll(18,75,3.4)
 	await stopRoll()
 	await roll(306,75,3.4) //fifth vertex
 	await stopRoll()
