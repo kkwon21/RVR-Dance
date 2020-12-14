@@ -30,8 +30,8 @@ async function startProgram() {
 	await stopRoll()
 	await roll(18,75,3.4)
 	await stopRoll()
-	await roll(306,75,3.4) //fifth vertex
+	await roll(320,75,3.4) //fifth vertex
 	await stopRoll()
-	await roll(90,65,3.4)
+	await roll(75,65,3.4)
 	await stopRoll()
 }
